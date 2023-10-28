@@ -1,6 +1,3 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
-  
+  <Login/>
 </template>
